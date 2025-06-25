@@ -50,6 +50,10 @@ This repository includes `.sql` files for each topic:
 Feel free to explore and learn each topic with practical examples!
 
 ---
+## Data Definition Language 
+- `create table`
+- `alter table`
+- `drop table` 
 
 ## 💡 Tip
 
