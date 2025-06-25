@@ -3,6 +3,7 @@
 A collection of essential SQL clauses with examples and the difference between coding order and execution order in SQL queries.
 
 ---
+## Beginners's Guide 
 
 ## 🔹 Common SQL Clauses
 
