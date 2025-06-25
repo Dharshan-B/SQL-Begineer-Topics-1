@@ -46,7 +46,6 @@ This repository includes `.sql` files for each topic:
 - `HAVING.sql`
 - `DISTINCT.sql`
 - `TOP.sql`
-- `Execution_Order_vs_Coding_Order.sql`
 
 Feel free to explore and learn each topic with practical examples!
 
