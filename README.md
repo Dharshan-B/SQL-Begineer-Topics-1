@@ -53,7 +53,12 @@ Feel free to explore and learn each topic with practical examples!
 ## Data Definition Language 
 - `create table`
 - `alter table`
-- `drop table` 
+- `drop table`
+---
+## Data Manipulation Language
+- `Insert Columns`
+- `Update Columns`
+- `delete Columns`
 
 ## 💡 Tip
 
